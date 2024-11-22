@@ -1,4 +1,5 @@
 # SocialView-
+<<<<<<< HEAD
 Sentiment Analysis Web App
 
 This project is a sentiment analysis web application built using Python, Django, and SpaCy. It uses a pre-trained machine learning model (sentimental_model.joblib) for sentiment classification.
@@ -34,3 +35,5 @@ To resume work later, activate the virtual environment and run the server:
 
 .\venv\Scripts\activate
 python ./manage.py runserver
+=======
+>>>>>>> c2da91f9c35afaef30a02debfbbec0e2b7c76f50
